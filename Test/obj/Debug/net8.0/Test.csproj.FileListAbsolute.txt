@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\PTTKTT\Test\bin\Debug\net8.0\Test.exe
+C:\Users\ACER\source\repos\PTTKTT\Test\bin\Debug\net8.0\Test.deps.json
+C:\Users\ACER\source\repos\PTTKTT\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Users\ACER\source\repos\PTTKTT\Test\bin\Debug\net8.0\Test.dll
+C:\Users\ACER\source\repos\PTTKTT\Test\bin\Debug\net8.0\Test.pdb
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.dll
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\refint\Test.dll
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.pdb
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Users\ACER\source\repos\PTTKTT\Test\obj\Debug\net8.0\ref\Test.dll
